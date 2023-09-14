@@ -5,3 +5,4 @@ node_modules
 
 tmp
 rest-client
+prisma/dev.db
